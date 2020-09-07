@@ -1,0 +1,12 @@
+{
+	"client":{
+		"cp_id":"890090000023105685",
+		"product_id":"736430079244607434",
+		"client_id":"433327975593673728",
+		"client_secret":"902DCD6DF37DFF0700FE1AC582AA153AEBBA34223EA7E1FEB502441A6E7380D4",
+		"app_id":"102766605",
+		"package_name":"com.huawei.huaweidrivekit",
+		"api_key":"CgB6e3x95yCDHBVUAc4eeTTa5CwQOQZXf2D6n4G/17qzil9nCUkYhyRF+BU5aRk6bxaYJnWzaCbxp2iB1OHtpPsR"
+	},
+	"configuration_version":"1.0"
+}
